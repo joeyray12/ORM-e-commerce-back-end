@@ -1,4 +1,4 @@
-# README generator 
+# E-Commerce Back End Database
 ![Github license](https://img.shields.io/badge/license--blue.svg)
 ## Description
 This is a back end database that can be utilized for ecommmerce with Express.js and MYSQL connected with Sequelize. This allows you to seed a database and test the data within it.
